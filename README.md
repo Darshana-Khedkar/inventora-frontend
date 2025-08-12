@@ -1,0 +1,1 @@
+# inventora-frontend
